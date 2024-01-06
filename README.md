@@ -1,2 +1,3 @@
-# 让Bukkit插件支持Folia
-![](https://github.com/PaperMC/Folia/raw/master/folia.png)
+# XgpLottery2 文档
+
+插件地址 [XgpLottery](https://github.com/xgpjun/XgpLottery)

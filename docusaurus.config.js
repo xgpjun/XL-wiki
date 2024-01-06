@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/xgpjun/Folia-Tutorials/blob/main'
+            'https://github.com/xgpjun/XL-wiki/blob/main'
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/xgpjun/Folia-Tutorials',
+            href: 'https://github.com/xgpjun/XgpLottery',
             label: 'GitHub',
             position: 'right',
           },
@@ -123,7 +123,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/xgpjun/Folia-Tutorials',
+                href: 'https://github.com/xgpjun/XgpLottery',
               },
             ],
           },
